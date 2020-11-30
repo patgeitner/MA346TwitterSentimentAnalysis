@@ -7,6 +7,9 @@ This is a final project for MA346 - Data Science at Bentley University. I wanted
 ## Features
 The app created in this project allows a user to enter some text, or the URL to a specific Twitter post. The model is then applied to the text or Tweet, and classifies it as either having a positive or negative sentiment. It also displays all of the words from the text entered in green if it is a "positive word", red if it is a "negative word", and black if the word is not seen in the dataset or seen the same amount in positive and negative tweets.
 
+## Tech Used
+This project was written in Python. Data was prepared using the Pandas, Natural Language Tool Kit, NumPy, and Re libraries. The model was fit using SkLearn. Web scraping from URL was done with the Twitter API. Dashboard was created using the Streamlit library and deployed using Heroku. 
+
 ## Screenshots
 ![](/images/Screenshot.png)
 
