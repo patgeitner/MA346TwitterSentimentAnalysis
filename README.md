@@ -8,7 +8,7 @@ This is a final project for MA346 - Data Science at Bentley University. I wanted
 The app created in this project allows a user to enter some text, or the URL to a specific Twitter post. The model is then applied to the text or Tweet, and classifies it as either having a positive or negative sentiment. It also displays all of the words from the text entered in green if it is a "positive word", red if it is a "negative word", and black if the word is not seen in the dataset or seen the same amount in positive and negative tweets.
 
 ## Screenshots
-![User-Entered Text](/images/Screenshot)
+![](/images/Screenshot.png)
 
-![User-Entered URL](/images/Screenshot2)
+![](/images/Screenshot2.png)
 
