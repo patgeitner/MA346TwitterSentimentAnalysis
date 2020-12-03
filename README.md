@@ -3,7 +3,7 @@ This project performs an analysis of data about Twitter posts. The study include
 
 You can also run the code for creating the logistic model and some data visualization from this link https://deepnote.com/project/fa91b211-2975-412c-a8b0-839a93b97fa6 . Unfortunately, due to Deepnote's limited free computing power, the model in this notebook is only trained on 50,000 entries. However, the model created in model.py and used in app.py is trained on all 1.6 million entries from the dataset.
 
-A formal report aboout this project can be found at [](https://github.com/patgeitner/MA346TwitterSentimentAnalysis/blob/main/Final Project Report.docx)
+A formal report aboout this project can be found at (https://github.com/patgeitner/MA346TwitterSentimentAnalysis/blob/main/Final%20Project%20Report.docx)
 
 
 ## Motivation
